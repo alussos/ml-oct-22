@@ -50,7 +50,7 @@
 - How's today and tomorrow look?
 - How will the class work? What can you expect?
 
-# [10] Discuss/share - what's your relationship to ML? 
+# [10] Discuss/share - what's your current relationship with ML? 
 Discuss with your neighbor....
 
 1. What do you know or believe about ML?
@@ -206,6 +206,7 @@ Look at this for visuals: http://scott.fortmann-roe.com/docs/BiasVariance.html
 - A/B testing
 - The null hypothesis
 - Was our modification significant?
+- Z-score, p-value
 - Brainstorm examples of A/B tests you would run at salesforce
 
 Note: use Yipit subject line testing
