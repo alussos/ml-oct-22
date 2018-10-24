@@ -25,7 +25,7 @@
 - [Pod app data](https://s3-us-west-2.amazonaws.com/ga-dat-2015-suneel/app_data.csv)
 
 # Linear regression practice
-Work with a partner and build a linear regression. Try to tune it. Make visual plots wherever helpful. Discuss results and we'll share as a class.
+Work with a partner and build a linear regression on the doctor's visit data. Try to tune it. Make visual plots wherever helpful. Discuss results and we'll share as a class.
 
 # Python warm up problems
 1. Create a list of 10+ restaurants and assign to a global variable
