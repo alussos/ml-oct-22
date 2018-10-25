@@ -37,10 +37,6 @@ Side Note 2: The above algorithm is called Lloyd's algorithm.
 ### Terms
 - intra-cluster variation
 - inter-cluster variation
-- v-measure
-- homogeneity
-- completeness
- - rand score
  - WCSS (inertia)
 
 ## K means practice
