@@ -75,6 +75,7 @@ Note that above, we will often use Euclidean distance as the measure of dissimil
 - Practice 2: http://nbviewer.jupyter.org/gist/suneel0101/39e2804783ff5a7c6e71
 
 ## In-depth practice with categorical variables...
+Let's use the CRX data...
 
 # Supervised learning model recap (Part 1)
 ## Naive Bayes
